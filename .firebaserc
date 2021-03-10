@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-todo-bc42d": {
+      "hosting": {
+        "todo-list": [
+          "angular-todo-bc42d"
+        ]
+      }
+    }
+  }
+}
